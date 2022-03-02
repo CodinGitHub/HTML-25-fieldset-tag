@@ -1,0 +1,13 @@
+body{
+  font-size: 32px;
+  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+}
+h1{
+  color: #1a1814;;
+  font-size: 64px;
+  margin: 75px 0 50px;
+  text-align: center;
+}
+form{
+  padding: 0 50px;
+}
